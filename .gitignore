@@ -1,0 +1,6 @@
+/bin/
+/coverage/*
+/node_modules/*
+*.idea/*
+*.coverage
+/app/assets/js/plato/*
